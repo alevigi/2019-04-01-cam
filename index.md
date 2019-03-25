@@ -121,7 +121,7 @@ collaborative_notes: "https://pad.carpentries.org/2019-4-1-CAM"
   The workshop organizers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
+  <li>The training room is located on the first floor and there is currently no wheelchair or level access available to this level</li>
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
