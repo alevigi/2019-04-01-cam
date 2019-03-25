@@ -1,19 +1,18 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "Stazione Zoologica Anton Dohrn Napoli"
-address: "Villa Comunale Napoli, 80121 - Naples, in the Foyer Seminar Room on the ground Floor of the Stazione Zoologica Anton Dohrn"
+venue: "University of Cambridge"
+address: "Bioinformatics Training Room, Craik-Marshall Building, Downing Site"
 country: "it"
 language: "en"
-latlng: "40.832726,14.235630"
-humandate: "Feb 6-7, 2019"
-humantime: "9:30 am - 5:00 pm"
-startdate: 2019-02-06
-enddate: 2019-02-07
-instructor: ["Alessandra Vigilante"]
-helper: ["Mara Sangiovanni, Chiara Colantuono", "Marco Miralto"]
-email: ["chiusano@unina.it, mara.sangiovanni@szn.it,alessandra.vigilante@kcl.ac.uk"]
-collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
+latlng: "52.203426,14.0.121689"
+humandate: "Apr 1-2, 2019"
+humantime: "9:30 am - 5:30 pm"
+startdate: 2019-04-01
+enddate: 2019-04-01
+instructor: ["Jing Su,  Alexia Cardona,  Manasa Ramakrishna,  Alessandra Vigilante"]
+email: ["alessandra.vigilante@kcl.ac.uk, gr231@cam.ac.uk"]
+collaborative_notes: "https://pad.carpentries.org/2019-4-1-CAM"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
